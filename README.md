@@ -48,3 +48,7 @@ If you are interested in actually using this code in a real application rather t
 
 TODO: this readme.
 
+My errors:by 1/11/2017
+1.import math in step1_preprocess_luna16.py
+2.FileNotFoundError: [Errno 2] No such file or directory: '/disk1/dongKaggle/ndsb3ssd/ndsb3_extracted_images/0a0c32c9e08cc2ea76a71649de56be6d/'
+  you should create these files manually
